@@ -34,12 +34,12 @@
 - (void)setAccountMenuUpperButtons:(id)arg1 lowerButtons:(id)arg2 {
     UIGraphicsImageRenderer *renderer = [[UIGraphicsImageRenderer alloc] initWithSize:CGSizeMake(24, 24)];
     UIImage *icon = [renderer imageWithActions:^(UIGraphicsImageRendererContext * _Nonnull rendererContext) {
-        UIImage *flameImage = [UIImage systemImageNamed:@"flame"];
+        UIImage *flameImage = [UIImage systemImageNamed:@"pencil.slash"];
         UIView *imageView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, 24, 24)];
         UIImageView *flameImageView = [[UIImageView alloc] initWithImage:flameImage];
         flameImageView.contentMode = UIViewContentModeScaleAspectFit;
         flameImageView.clipsToBounds = YES;
-        flameImageView.tintColor = [UIColor redColor];
+        flameImageView.tintColor = [UIColor whiteColor];
         flameImageView.frame = imageView.bounds;
 
         [imageView addSubview:flameImageView];
