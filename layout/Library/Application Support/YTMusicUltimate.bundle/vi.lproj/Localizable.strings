@@ -101,11 +101,15 @@
 "DONT_RUSH_DESC" = "Bắt buộc phải phát bài hát để trích xuất link";
 "SELECT_ACTION" = "Chọn hành động";
 "DOWNLOADING" = "Đang tải";
-"DOWNLOAD_PREMIUM" = "Download (Premium required)";
+"DOWNLOAD_PREMIUM" = "Tải Xuống (Yêu cầu Premium)";
 "OOPS" = "Rất tiếc\đã xảy ra lỗi";
 "LINK_NOT_FOUND" = "Link not found";
 "SAVED_TO_PHOTOS" = "Đã lưu vào Ảnh";
 "DONE" = "Xong";
+"FOUND_SEGMENT" = "Đã tìm thấy phân đoạn lạc đề";
+"SEGMENT_SKIPPED" = "Offtopic đã bị bỏ qua";
+"SKIP" = "Skip";
+"UNSKIP" = "Unskip";
 
 "EMPTY" = "Nội dung bạn tải xuống sẽ hiển thị ở đây";
 "REMOVE_ALL" = "Xóa tất cả âm thanh";
