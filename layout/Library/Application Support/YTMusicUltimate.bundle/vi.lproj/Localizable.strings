@@ -81,7 +81,7 @@
 "APPLY_DESC" = "Đóng ứng dụng để áp dụng các thay đổi";
 
 "LINKS" = "Liên Kết";
-"TWITTER" = "Theo dõi %@ trên Twitter";
+"TWITTER" = "%@";
 "TWITTER_DESC" = "Truy cập để kiểm tra bản cập nhật";
 "DISCORD" = "Vào Discord";
 "DISCORD_DESC" = "Báo cáo lỗi và yêu cầu tính năng mới";
