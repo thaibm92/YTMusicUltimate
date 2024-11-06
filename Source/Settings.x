@@ -47,7 +47,7 @@
     }];
 
     //Create the YTMusicUltimate button
-    YTMAccountButton *button = [[%c(YTMAccountButton) alloc] initWithTitle:@"YTMusicUltimate" identifier:@"ytmult" icon:icon actionBlock:^(BOOL arg4) {
+    YTMAccountButton *button = [[%c(YTMAccountButton) alloc] initWithTitle:@"IOSMOD.NET" identifier:@"ytmult" icon:icon actionBlock:^(BOOL arg4) {
         //Push YTMusicUltimate view controller.
         UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:[[YTMUltimateSettingsController alloc] init]];
         [nav setModalPresentationStyle: UIModalPresentationFullScreen];
